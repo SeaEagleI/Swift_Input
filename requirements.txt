@@ -1,0 +1,8 @@
+tqdm~=4.32.1
+requests~=2.22.0
+beautifulsoup4~=4.7.1
+selenium~=3.141.0
+websocket-client~=0.57.0
+pyaudio~=0.2.11
+future~=0.17.1
+pyperclip~=1.7.0
