@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated Backend of VoiceInput &amp; PinyinInput" />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated Backend of VoiceInput &amp; PinyinInput">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +116,7 @@
       <workItem from="1589200440219" duration="4070000" />
       <workItem from="1589208199264" duration="162000" />
       <workItem from="1589236208975" duration="1295000" />
-      <workItem from="1589237783317" duration="613000" />
+      <workItem from="1589237783317" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -181,18 +183,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated Backend of VoiceInput &amp; PinyinInput" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog" timestamp="1589208388750">
+    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog" timestamp="1589240965915">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog/0.0.1376.774@0.0.1376.774" timestamp="1589208388750" />
-    <state x="469" y="142" key="FileChooserDialogImpl" timestamp="1589237780178">
+    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog/0.0.1376.774@0.0.1376.774" timestamp="1589240965915" />
+    <state x="469" y="142" key="FileChooserDialogImpl" timestamp="1589238494818">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="469" y="142" key="FileChooserDialogImpl/0.0.1376.774@0.0.1376.774" timestamp="1589237780178" />
-    <state x="516" y="306" width="370" height="230" key="Github.ShareDialog" timestamp="1589238365208">
+    <state x="469" y="142" key="FileChooserDialogImpl/0.0.1376.774@0.0.1376.774" timestamp="1589238494818" />
+    <state x="516" y="306" width="370" height="230" key="Github.ShareDialog" timestamp="1589238738728">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="516" y="306" width="370" height="230" key="Github.ShareDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238365208" />
+    <state x="516" y="306" width="370" height="230" key="Github.ShareDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238738728" />
+    <state x="504" y="91" key="Github.UntrackedFilesDialog" timestamp="1589238760993">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="504" y="91" key="Github.UntrackedFilesDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238760993" />
     <state width="1333" height="194" key="GridCell.Tab.0.bottom" timestamp="1588994952477">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
