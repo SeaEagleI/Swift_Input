@@ -6,26 +6,13 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated Backend of VoiceInput &amp; PinyinInput">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +116,7 @@
       <workItem from="1589200440219" duration="4070000" />
       <workItem from="1589208199264" duration="162000" />
       <workItem from="1589236208975" duration="1295000" />
-      <workItem from="1589237783317" duration="2140000" />
+      <workItem from="1589237783317" duration="1784000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -138,14 +125,7 @@
       <option name="project" value="LOCAL" />
       <updated>1589207322587</updated>
     </task>
-    <task id="LOCAL-00002" summary="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md">
-      <created>1589241139021</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1589241139021</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,8 +180,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Backend of VoiceInput &amp; PinyinInput" />
-    <MESSAGE value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Backend of VoiceInput &amp; PinyinInput" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1190" height="588" key="DiffContextDialog" timestamp="1589240965915">
@@ -244,10 +223,10 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589238400711" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589241213142">
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589237577547">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589241213142" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589237577547" />
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589237918168">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
