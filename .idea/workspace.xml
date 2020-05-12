@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/VoiceInput/Instructions for futher upgrades.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated config file." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +132,7 @@
       <workItem from="1589208199264" duration="162000" />
       <workItem from="1589236208975" duration="1295000" />
       <workItem from="1589237783317" duration="1784000" />
-      <workItem from="1589243689893" duration="275000" />
+      <workItem from="1589243689893" duration="576000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -172,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589243301439</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated config file.">
+      <created>1589244039458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589244039458</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated config file.">
+      <created>1589244057955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589244057955</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +222,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -233,6 +269,7 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="RECENT_FILTERS">
@@ -310,18 +347,22 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589238400711" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589243316347">
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589244133796">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589243316347" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589244133796" />
+    <state x="433" y="121" key="VcsDiffUtil.ChangesDialog" timestamp="1589244401926">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="433" y="121" key="VcsDiffUtil.ChangesDialog/0.0.1376.774@0.0.1376.774" timestamp="1589244401926" />
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589237918168">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.774@0.0.1376.774" timestamp="1589237918168" />
-    <state x="400" y="174" key="git4idea.merge.GitPullDialog" timestamp="1589238052705">
+    <state x="400" y="174" key="git4idea.merge.GitPullDialog" timestamp="1589244349878">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="400" y="174" key="git4idea.merge.GitPullDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238052705" />
+    <state x="400" y="174" key="git4idea.merge.GitPullDialog/0.0.1376.774@0.0.1376.774" timestamp="1589244349878" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Swift_Input$backend_pi.coverage" NAME="backend-pi Coverage Results" MODIFIED="1588992613794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
