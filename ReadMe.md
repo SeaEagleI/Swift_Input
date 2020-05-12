@@ -1,16 +1,33 @@
-# 项目说明及概述
+# 项目说明及演示
 
 ---
 ## 运行
 #### 先安装依赖:
-'''
-pip install requirements.txt
-'''
+```python
+$ pip install requirements.txt
+```
+
 #### 前端:
 直接运行SwiftInput.py即可运行项目(含界面)。
+
+```python
+$ python3 SwiftInput.py
+```
+
 #### 后端:
 运行./backend-pi.py对PinyinInput的后端效果进行测试/使用；
+
+```python
+$ python3 backend-pi.py
+```
+
 运行./backend-vi.py对VoiceInput的后端效果进行测试/使用。
+
+```python
+$ python3 backend-vi.py
+```
+
+
 
 ## 文件目录说明
 （本ReadMe.txt中提及的所有"."均指项目目录Swift_Input）
@@ -40,4 +57,4 @@ backend-pi.py运行效果</div>
 backend-vi.py运行效果</div>  
 #### 前端界面展示
 <div align=center><img src="http://47.92.96.62/pics/GUI%20Demo.png"></img>
-SwiftInput.py运行效果</div>  
+SwiftInput.py运行效果</div>
