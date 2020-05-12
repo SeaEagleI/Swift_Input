@@ -1,8 +1,8 @@
 # Intro.  
-A sophisticated input method written with python3, including **VoiceInput** and **PinyinInput** modules.
+实现长文本实时上屏所需资料及思路
 
 ---
-# Possible References （实现长文本实时上屏所需资料及思路）
+# Possible References 
 ### 思路（三选一）
 - **(1)双进程同步**  
 使用MultiProcessing库将Recorder和Recognizer两个模块分开，并用两个并行进程实现同步。
@@ -18,13 +18,14 @@ A sophisticated input method written with python3, including **VoiceInput** and 
 
 ### 一些图片
 - 目前演示效果  
-![目前演示效果](https://github.com/SeaEagleI/Swift_Input/blob/master/pics/demo.png)  
-- 参考中提到的中有关(2)的代码片段
-![参考中提到的中有关(2)的代码片段](https://github.com/SeaEagleI/Swift_Input/blob/master/pics/Sample%20Code%20for%20(2).png)  
-- 【精华】(3)中思路
-![【精华】(3)中思路](https://github.com/SeaEagleI/Swift_Input/blob/master/pics/Instructions%20For%20(3).png)   
+<div align=center><img src="http://47.92.96.62/pics/demo.png"></img></div>  
 
----
+- 参考中提到的中有关(2)的代码片段
+<div align=center><img src="http://47.92.96.62/pics/Sample%20Code%20for%20(2).png"></img></div>  
+
+- 【精华】(3)中思路
+<div align=center><img src="http://47.92.96.62/pics/Instructions%20For%20(3).png"></img></div>  
+
 # Suggestions
 - 推荐优先使用第3种方法，第3种方法理论上实现效果最好。
 - 如果官方文档和网上实在找不到系统API，自己也写不出来，再试第2种。
