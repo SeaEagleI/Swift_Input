@@ -5,29 +5,22 @@
 #### 先安装依赖:
 ```python
 $ pip install requirements.txt
+$ pip install PyQt5 PyQt5-tools pyaudio speechrecognition
 ```
-
-#### 前端:
-直接运行SwiftInput.py即可运行项目(含界面)。
-
-```python
-$ python3 SwiftInput.py
-```
-
-#### 后端:
+#### 然后运行后端:
 运行./backend-pi.py对PinyinInput的后端效果进行测试/使用；
-
 ```python
 $ python3 backend-pi.py
 ```
-
 运行./backend-vi.py对VoiceInput的后端效果进行测试/使用。
-
 ```python
 $ python3 backend-vi.py
 ```
-
-
+#### 再运行前端:
+直接运行SwiftInput.py即可运行项目(含界面)。
+```python
+$ python3 SwiftInput.py
+```
 
 ## 文件目录说明
 （本ReadMe.txt中提及的所有"."均指项目目录Swift_Input）
@@ -52,9 +45,11 @@ $ python3 backend-vi.py
 #### 拼音输入后端展示
 <div align=center><img src="http://47.92.96.62/pics/PinyinInput%20Backend%20Demo.png"></img>
 backend-pi.py运行效果</div>  
+
 #### 语音输入后端展示
 <div align=center><img src="http://47.92.96.62/pics/VoiceInput%20Backend%20Demo.png"></img>
 backend-vi.py运行效果</div>  
+
 #### 前端界面展示
 <div align=center><img src="http://47.92.96.62/pics/GUI%20Demo.png"></img>
 SwiftInput.py运行效果</div>
