@@ -2,11 +2,13 @@
 
 # Form implementation generated from reading ui file 'Homepage.ui'
 #
-# Created by: PyQt5 UI code generator 5.6
+# Created by: PyQt5 UI code generator 5.14.2
 #
 # WARNING! All changes made in this file will be lost!
 
+
 from PyQt5 import QtCore, QtGui, QtWidgets
+
 
 class Ui_Homepage(object):
     def setupUi(self, Homepage):
@@ -156,4 +158,3 @@ class Ui_Homepage(object):
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:#cc0000;\">说明:</span></p>\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:#cc0000;\">         在使用键盘输入时，初始默认输入英文，此后可通过按shift键在中英文输入间切换。</span></p>\n"
 "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span style=\" color:#cc0000;\">         语音输入支持中英文混合输入。</span></p></body></html>"))
-

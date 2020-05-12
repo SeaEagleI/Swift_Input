@@ -25,7 +25,23 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated config file." />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated config file.">
+      <change beforePath="$PROJECT_DIR$/.idea/Swift_Input.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Swift_Input.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985740781-1588985753924.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985756771-1588985762127.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985772789-1588985776052.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985777515-1588985800237.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985812074-1588985815617.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985826113-1588985830129.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985840309-1588985842613.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985843919-1588985859320.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985862475-1588985866556.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/VoiceInput.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/VoiceInput.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +70,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/Anaconda3/Library/bin/designer.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,7 +79,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.backend-vi">
+  <component name="RunManager" selected="Python.SwiftInput">
     <configuration name="SwiftInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Swift_Input" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +94,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SwiftInput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backend-pi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Swift_Input" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend-pi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,8 +148,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.backend-vi" />
         <item itemvalue="Python.SwiftInput" />
+        <item itemvalue="Python.backend-vi" />
+        <item itemvalue="Python.backend-pi" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +171,8 @@
       <workItem from="1589208199264" duration="162000" />
       <workItem from="1589236208975" duration="1295000" />
       <workItem from="1589237783317" duration="1784000" />
-      <workItem from="1589243689893" duration="576000" />
+      <workItem from="1589243689893" duration="928000" />
+      <workItem from="1589247027397" duration="2925000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -183,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589244057955</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated config file.">
+      <created>1589244420048</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589244420048</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,18 +350,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated config file." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="456" y="217" key="#com.intellij.tools.ToolEditorDialog" timestamp="1589247749733">
+      <screen x="0" y="0" width="1376" height="774" />
+    </state>
+    <state x="456" y="217" key="#com.intellij.tools.ToolEditorDialog/0.0.1376.774@0.0.1376.774" timestamp="1589247749733" />
     <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1589241675327">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="248" y="0" key="CommitChangelistDialog2/0.0.1376.774@0.0.1376.774" timestamp="1589241675327" />
-    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog" timestamp="1589240965915">
+    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog" timestamp="1589247752402">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog/0.0.1376.774@0.0.1376.774" timestamp="1589240965915" />
-    <state x="469" y="142" key="FileChooserDialogImpl" timestamp="1589242066114">
+    <state x="93" y="93" width="1190" height="588" key="DiffContextDialog/0.0.1376.774@0.0.1376.774" timestamp="1589247752402" />
+    <state x="469" y="142" key="FileChooserDialogImpl" timestamp="1589249167234">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="469" y="142" key="FileChooserDialogImpl/0.0.1376.774@0.0.1376.774" timestamp="1589242066114" />
+    <state x="469" y="142" key="FileChooserDialogImpl/0.0.1376.774@0.0.1376.774" timestamp="1589249167234" />
     <state x="516" y="306" width="370" height="230" key="Github.ShareDialog" timestamp="1589238738728">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
@@ -323,34 +374,34 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="504" y="91" key="Github.UntrackedFilesDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238760993" />
-    <state width="1333" height="194" key="GridCell.Tab.0.bottom" timestamp="1588994952477">
+    <state width="1333" height="361" key="GridCell.Tab.0.bottom" timestamp="1589249789830">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="194" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1588994952477" />
+    <state width="1333" height="361" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
     <state width="1862" height="262" key="GridCell.Tab.0.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="194" key="GridCell.Tab.0.center" timestamp="1588994952477">
+    <state width="1333" height="361" key="GridCell.Tab.0.center" timestamp="1589249789830">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="194" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1588994952477" />
+    <state width="1333" height="361" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
     <state width="1862" height="262" key="GridCell.Tab.0.center/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="194" key="GridCell.Tab.0.left" timestamp="1588994952477">
+    <state width="1333" height="361" key="GridCell.Tab.0.left" timestamp="1589249789830">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="194" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1588994952477" />
+    <state width="1333" height="361" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
     <state width="1862" height="262" key="GridCell.Tab.0.left/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="194" key="GridCell.Tab.0.right" timestamp="1588994952477">
+    <state width="1333" height="361" key="GridCell.Tab.0.right" timestamp="1589249789830">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="194" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1588994952477" />
+    <state width="1333" height="361" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
     <state width="1862" height="262" key="GridCell.Tab.0.right/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state x="190" y="32" key="SettingsEditor" timestamp="1589238400711">
+    <state x="190" y="32" key="SettingsEditor" timestamp="1589249247589">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589238400711" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589244133796">
+    <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589249247589" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589244433406">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589244133796" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589244433406" />
     <state x="433" y="121" key="VcsDiffUtil.ChangesDialog" timestamp="1589244401926">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
@@ -359,14 +410,14 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.774@0.0.1376.774" timestamp="1589237918168" />
-    <state x="400" y="174" key="git4idea.merge.GitPullDialog" timestamp="1589244349878">
+    <state x="400" y="174" key="git4idea.merge.GitPullDialog" timestamp="1589247617688">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="400" y="174" key="git4idea.merge.GitPullDialog/0.0.1376.774@0.0.1376.774" timestamp="1589244349878" />
+    <state x="400" y="174" key="git4idea.merge.GitPullDialog/0.0.1376.774@0.0.1376.774" timestamp="1589247617688" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Swift_Input$backend_pi.coverage" NAME="backend-pi Coverage Results" MODIFIED="1588992613794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Swift_Input$SwiftInput.coverage" NAME="SwiftInput Coverage Results" MODIFIED="1588992454153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Swift_Input$backend_vi.coverage" NAME="backend-vi Coverage Results" MODIFIED="1588992627585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Swift_Input$backend_pi.coverage" NAME="backend-pi Coverage Results" MODIFIED="1589249609365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Swift_Input$SwiftInput.coverage" NAME="SwiftInput Coverage Results" MODIFIED="1589249789822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Swift_Input$backend_vi.coverage" NAME="backend-vi Coverage Results" MODIFIED="1589249646755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
