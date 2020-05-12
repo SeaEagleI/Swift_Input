@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Removed Unused Sogou Wordlibs (Bin File)." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589242520053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed Unused Sogou Wordlibs (Bin File).">
+      <created>1589243124451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589243124451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +248,8 @@
     <MESSAGE value="Updated Backend of VoiceInput &amp; PinyinInput" />
     <MESSAGE value="Revert &quot;Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md&quot;&#10;&#10;This reverts commit cc1b8213" />
     <MESSAGE value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
+    <MESSAGE value="Removed Unused Sogou Wordlibs (Bin File)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Unused Sogou Wordlibs (Bin File)." />
   </component>
   <component name="WindowStateProjectService">
     <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1589241675327">
