@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Removed Unused Sogou Wordlibs (Bin File)." />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/VoiceInput/Instructions for futher upgrades.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1beBiqDxlNYNZROpuKr1o0xiPWB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -130,6 +135,7 @@
       <workItem from="1589208199264" duration="162000" />
       <workItem from="1589236208975" duration="1295000" />
       <workItem from="1589237783317" duration="1784000" />
+      <workItem from="1589243689893" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -159,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589243124451</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated config file.">
+      <created>1589243301439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589243301439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +262,8 @@
     <MESSAGE value="Revert &quot;Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md&quot;&#10;&#10;This reverts commit cc1b8213" />
     <MESSAGE value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
     <MESSAGE value="Removed Unused Sogou Wordlibs (Bin File)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Unused Sogou Wordlibs (Bin File)." />
+    <MESSAGE value="Updated config file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated config file." />
   </component>
   <component name="WindowStateProjectService">
     <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1589241675327">
@@ -296,10 +310,10 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589238400711" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589242533402">
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589243316347">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589242533402" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589243316347" />
     <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589237918168">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
