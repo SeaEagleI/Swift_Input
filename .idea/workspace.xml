@@ -25,13 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Unversioned Files">
-      <change afterPath="$PROJECT_DIR$/pics/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pics/55.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated ReadMe.md.">
       <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +159,7 @@
       <workItem from="1589236208975" duration="1295000" />
       <workItem from="1589237783317" duration="1784000" />
       <workItem from="1589243689893" duration="928000" />
-      <workItem from="1589247027397" duration="5590000" />
+      <workItem from="1589247027397" duration="5944000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -237,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589250286583</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Unversioned Files">
+      <created>1589252699340</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589252699340</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated ReadMe.md.">
+      <created>1589252971295</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589252971295</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -357,7 +365,8 @@
     <MESSAGE value="Updated config file." />
     <MESSAGE value="Demo Files Added." />
     <MESSAGE value="Unversioned Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unversioned Files" />
+    <MESSAGE value="Updated ReadMe.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated ReadMe.md." />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="217" key="#com.intellij.tools.ToolEditorDialog" timestamp="1589247749733">
@@ -408,10 +417,10 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589249247589" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589250299819">
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589252973583">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589250299819" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589252973583" />
     <state x="433" y="121" key="VcsDiffUtil.ChangesDialog" timestamp="1589244401926">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
