@@ -25,22 +25,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Updated config file.">
-      <change beforePath="$PROJECT_DIR$/.idea/Swift_Input.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Swift_Input.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4eb3b7c6-ab2d-44f5-8539-0eda0500383d" name="Default Changelist" comment="Unversioned Files">
+      <change afterPath="$PROJECT_DIR$/pics/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/55.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985740781-1588985753924.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985756771-1588985762127.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985772789-1588985776052.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985777515-1588985800237.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985812074-1588985815617.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985826113-1588985830129.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985840309-1588985842613.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985843919-1588985859320.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VoiceInput/cache/1588985862475-1588985866556.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/VoiceInput.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/VoiceInput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -172,7 +165,7 @@
       <workItem from="1589236208975" duration="1295000" />
       <workItem from="1589237783317" duration="1784000" />
       <workItem from="1589243689893" duration="928000" />
-      <workItem from="1589247027397" duration="2925000" />
+      <workItem from="1589247027397" duration="5590000" />
     </task>
     <task id="LOCAL-00001" summary="Updated Backend of VoiceInput &amp; PinyinInput">
       <created>1589207322587</created>
@@ -230,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589244420048</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Demo Files Added.">
+      <created>1589250257186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589250257186</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Unversioned Files">
+      <created>1589250286583</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589250286583</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,12 +349,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updated Backend of VoiceInput &amp; PinyinInput" />
     <MESSAGE value="Revert &quot;Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md&quot;&#10;&#10;This reverts commit cc1b8213" />
     <MESSAGE value="Rename &amp; Update ReadMe.txt ==&gt; ReadMe.md" />
     <MESSAGE value="Removed Unused Sogou Wordlibs (Bin File)." />
     <MESSAGE value="Updated config file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated config file." />
+    <MESSAGE value="Demo Files Added." />
+    <MESSAGE value="Unversioned Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unversioned Files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="456" y="217" key="#com.intellij.tools.ToolEditorDialog" timestamp="1589247749733">
@@ -374,34 +384,34 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="504" y="91" key="Github.UntrackedFilesDialog/0.0.1376.774@0.0.1376.774" timestamp="1589238760993" />
-    <state width="1333" height="361" key="GridCell.Tab.0.bottom" timestamp="1589249789830">
+    <state width="1333" height="361" key="GridCell.Tab.0.bottom" timestamp="1589250205487">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="361" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
+    <state width="1333" height="361" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1589250205487" />
     <state width="1862" height="262" key="GridCell.Tab.0.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="361" key="GridCell.Tab.0.center" timestamp="1589249789830">
+    <state width="1333" height="361" key="GridCell.Tab.0.center" timestamp="1589250205487">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="361" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
+    <state width="1333" height="361" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1589250205487" />
     <state width="1862" height="262" key="GridCell.Tab.0.center/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="361" key="GridCell.Tab.0.left" timestamp="1589249789830">
+    <state width="1333" height="361" key="GridCell.Tab.0.left" timestamp="1589250205487">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="361" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
+    <state width="1333" height="361" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1589250205487" />
     <state width="1862" height="262" key="GridCell.Tab.0.left/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
-    <state width="1333" height="361" key="GridCell.Tab.0.right" timestamp="1589249789830">
+    <state width="1333" height="361" key="GridCell.Tab.0.right" timestamp="1589250205487">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1333" height="361" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1589249789830" />
+    <state width="1333" height="361" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1589250205487" />
     <state width="1862" height="262" key="GridCell.Tab.0.right/0.35.1920.1045@0.35.1920.1045" timestamp="1588986401192" />
     <state x="190" y="32" key="SettingsEditor" timestamp="1589249247589">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="190" y="32" key="SettingsEditor/0.0.1376.774@0.0.1376.774" timestamp="1589249247589" />
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589244433406">
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2" timestamp="1589250299819">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589244433406" />
+    <state x="281" y="120" key="Vcs.Push.Dialog.v2/0.0.1376.774@0.0.1376.774" timestamp="1589250299819" />
     <state x="433" y="121" key="VcsDiffUtil.ChangesDialog" timestamp="1589244401926">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
