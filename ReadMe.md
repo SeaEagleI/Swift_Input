@@ -1,6 +1,5 @@
-# 项目说明及演示
+# 快捷输入法项目说明及演示
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Brutuski/Dotfiles/blob/master/LICENSE)
----
 ## 运行
 #### 先安装依赖:
 ```python
