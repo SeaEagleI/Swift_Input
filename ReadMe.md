@@ -42,13 +42,13 @@ $ python3 SwiftInput.py
 
 ## 运行效果演示
 #### 拼音输入后端展示
-<div align=center><img src="http://47.92.96.62/pics/PinyinInput%20Backend%20Demo.png"></img>
+<div align=center><img src="https://raw.githubusercontent.com/SeaEagleI/Swift_Input/master/pics/PinyinInput%20Backend%20Demo.png"></img>
 backend-pi.py运行效果</div>  
 
 #### 语音输入后端展示
-<div align=center><img src="http://github.com/SeaEagleI/Swift_Input/blob/master/pics/VoiceInput%20Backend%20Demo.png"></img>
+<div align=center><img src="https://raw.githubusercontent.com/SeaEagleI/Swift_Input/master/pics/VoiceInput%20Backend%20Demo.png"></img>
 backend-vi.py运行效果</div>  
 
 #### 前端界面展示
-<div align=center><img src="http://47.92.96.62/pics/GUI%20Demo.png"></img>
+<div align=center><img src="https://raw.githubusercontent.com/SeaEagleI/Swift_Input/master/pics/GUI%20Demo.png"></img>
 SwiftInput.py运行效果</div>
