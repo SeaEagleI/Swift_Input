@@ -46,7 +46,7 @@ $ python3 SwiftInput.py
 backend-pi.py运行效果</div>  
 
 #### 语音输入后端展示
-<div align=center><img src="http://47.92.96.62/pics/VoiceInput%20Backend%20Demo.png"></img>
+<div align=center><img src="http://github.com/SeaEagleI/Swift_Input/blob/master/pics/VoiceInput%20Backend%20Demo.png"></img>
 backend-vi.py运行效果</div>  
 
 #### 前端界面展示
